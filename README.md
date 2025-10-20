@@ -1,6 +1,9 @@
 # Hello! I'm Santiago
 
-I am currently a student in Video Games Development, mastering Unreal Engine 5 and C++!
+<div align="center">
+  <p>I am currently a student in Video Games Development, mastering Unreal Engine 5 and C++!</p>
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantySantos&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="150">
@@ -9,7 +12,9 @@ I am currently a student in Video Games Development, mastering Unreal Engine 5 a
      <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantySantos&theme=tokyo-night" height="300">-->
 </div>
 
-Check out my portfolio! [SantiagoSantos-Portfolio]([https://santiagosantos.de](https://santysantos.github.io/my-portfolio/)v)
+<div align="center">
+  <a> href="https://santysantos.github.io/my-portfolio/"> Check out my portfolio!</a>
+</div>
 
 
 
