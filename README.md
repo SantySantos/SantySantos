@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>Hello, I'm Santiago</h1>
-</div>
+
+h1 align="center">>Hello, I'm Santiago</h1>
 
 <div align="center">
   <p>I am currently a student in Video Games Development, mastering Unreal Engine 5 and C++!</p>
