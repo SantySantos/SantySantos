@@ -2,10 +2,9 @@
 
 ### 📊 My GitHub Progress
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SantySantos&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantySantos&layout=compact&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SantySantos&theme=dracula)
 [![GitHub Streak](https://streak-stats.demolab.com?user=SantySantos&theme=tokyonight)](https://git.io/streak-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SantySantos&theme=dracula)
 
 
 <!--
