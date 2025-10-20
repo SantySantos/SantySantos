@@ -1,5 +1,5 @@
 
-h1 align="center">>Hello, I'm Santiago</h1>
+<h2 align="center">Hello, I'm Santiago!</h2>
 
 <div align="center">
   <p>I am currently a student in Video Games Development, mastering Unreal Engine 5 and C++!</p>
