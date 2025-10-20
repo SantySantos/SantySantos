@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <a href="https://santysantos.github.io/my-portfolio/"> Check out my portfolio!</a>
+  <a href="https://santysantos.github.io/my-portfolio/" target="_blank"> Check out my portfolio!</a>
 </div>
 
 
