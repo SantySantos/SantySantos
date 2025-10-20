@@ -2,8 +2,12 @@
 
 ### 📊 My GitHub Progress
 
-![SantySantos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantySantos&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-![SantySantos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantySantos&theme=tokyonight&hide_border=false)
+# My Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantySantos&theme=tokyonight&layout=compact" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantySantos&theme=tokyonight" width="45%">
+</div>
 
 
 <!--
