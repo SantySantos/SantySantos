@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantySantos&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantySantos&theme=tokyonight&hide_border=false" height="150">
   <br>
-    <img src="https://streak-stats.demolab.com?user=SantySantos&theme=tokyonight" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantySantos&theme=tokyo-night" width="95%">
 </div>
 
 
