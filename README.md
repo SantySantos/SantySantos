@@ -13,7 +13,8 @@
      <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantySantos&theme=tokyo-night" height="300">-->
 
 <div align="center">
-  <a href="https://santysantos.github.io/my-portfolio/" target="_blank"> Check out my portfolio!</a>
+  <a href="https://santysantos.github.io/my-portfolio/" target="_blank"> 
+  <img src="https://img.shields.io/badge/_Check_out_my_Portfolio-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/></a>
 </div>
 
 
