@@ -11,7 +11,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantySantos&theme=tokyonight&hide_border=false" height="150">
   <br>
      <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantySantos&theme=tokyo-night" height="300">-->
-
+<br>
 <div align="center">
   <a href="https://santysantos.github.io/my-portfolio/" target="_blank"> 
   <img src="https://img.shields.io/badge/_Check_out_my_Portfolio-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/></a>
